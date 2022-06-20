@@ -14,7 +14,7 @@ Find out more about me & feel free to connect with me here:
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-Devin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/devin07)](www.linkedin.com/in/devin07)
-[![Medium Badge](https://img.shields.io/badge/Devin-12100E?style=flat-square&logo=medium&logoColor=white&link=(https://medium.com/@Devin007)](https://medium.com/@Devin007)
+[![Medium Badge](https://img.shields.io/badge/Devin-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@Devin007)](https://medium.com/@Devin007)
 [![Gmail Badge](https://img.shields.io/badge/-devinmoreland20@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devinmoreland20@gmail.com)](mailto:devinmoreland20@gmail.com)
 
 ## ⚡ Technologies
