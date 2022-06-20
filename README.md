@@ -6,4 +6,4 @@
 - 💬 Ask me about anything!
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/devin07)
 - ⚡ Fun fact: I like hiking in the mountains! 
-- :mortar_board: 
+- :mortar_board: AWS certified X2 [CDA](https://www.credly.com/badges/5fad11c1-f5a3-4380-a2b5-abd7ad15e37e/public_url), [SAA](https://www.credly.com/badges/86b00f66-0b27-4b2f-a4d6-7b3fc497ffb2/public_url)
