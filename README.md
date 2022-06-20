@@ -6,4 +6,4 @@
 - 💬 Ask me about anything!
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/devin07)
 - ⚡ Fun fact: I like hiking in the mountains! 
-
+- :mortar_board: 
