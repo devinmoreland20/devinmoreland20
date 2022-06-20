@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning Amazon Web Services
 - 👯 I’m looking to collaborate on anything I can help with
 - 💬 Ask me about anything!
-- 📫 How to reach me: LinkedIn, or GitHub
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/devin07)
 - ⚡ Fun fact: I like hiking in the mountains! 
 
