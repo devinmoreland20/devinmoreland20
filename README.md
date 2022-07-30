@@ -1,7 +1,7 @@
 ### Hey I'm Devin 👋
 
-- 🔭 I’m currently working on becoming a Cloud Engineer 
-- 🌱 I’m currently learning Amazon Web Services/Python/Boto3/Lambda/
+- 🔭 I’m a new Cloud Engineer 
+- 🌱 I’m currently learning Terrafrom and Containers
 - 👯 I’m looking to collaborate on anything I can help with
 - 💬 Ask me about anything!
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/devin07), [Gmail](devinmoreland20@gmail.com)
